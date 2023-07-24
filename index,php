@@ -1,2 +1,2 @@
-header("Location: https://discord.com/invite/tXkxzs78");
+header("Location: https://discord.com/invite/tXkxzs78.php");
 die();
